@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811110152072",
+    "project_id": "instagram-b0452",
+    "storage_bucket": "instagram-b0452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811110152072:android:99720185125254ceea6c3d",
+        "android_client_info": {
+          "package_name": "nlu.edu.vn.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811110152072-o3q97nf8oia4pm4bdbu3l88n6o2n4igf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU35i6CXqncIiKfWmRUoawC3_WmAcpeno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811110152072-o3q97nf8oia4pm4bdbu3l88n6o2n4igf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
